@@ -1,6 +1,6 @@
 ### Hi there 👋
 # Pruebas
-![header](/File/header.PNG)
+![header](https://raw.githubusercontent.com/cristophgaray/cristophgaray/main/Files/header.PNG)
 
 **cristophgaray/cristophgaray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
