@@ -1,7 +1,7 @@
-# Cristofer H. Garay Gonzaléz
+# Cristofer H. Garay González
 ## Ing. Matemáticas
 
-|       | Experencia Laboral |      |
+|       | Experiencia Laboral |      |
 | :---        |    :----:   |          ---: |
 | Lugar       |        |    |
-| Qualtop/CDMX     |  01/21       |       |
+| Qualtop/CDMX     |  01/21       | - Revisión de Código      |
