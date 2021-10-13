@@ -1,6 +1,7 @@
 # Cristofer H. Garay Gonzaléz
 ## Ing. Matemáticas
 
-|Expereciencia Laboral||
-| ------ | ------ | ------ |
-texto| Qualtop/Sye Sotfware | - Revision de seguridad |
+|       | Experencia Laboral |      |
+| :---        |    :----:   |          ---: |
+| Lugar       |        |    |
+| Qualtop/CDMX     |  01/21       |       |
