@@ -3,5 +3,5 @@
 
 |       | Experiencia Laboral |      |
 | :---        |    :----:   |          ---: |
-| Lugar       |  Tiempo      |    |
+| Lugar       |  Tiempo      | Actividades   |
 | Qualtop/CDMX     |  01/21 -- Actual       | - Revisión de Código      |
