@@ -1,6 +1,6 @@
 # Cristofer H. Garay González
 ## Ing. Matemáticas
-´´´
+´´´bash
  e88~-_         ,e,          d8              88~\                         
 d888   \ 888-~\  "   d88~\ _d88__  e88~-_  _888__  e88~~8e  888-~\        
 8888     888    888 C888    888   d888   i  888   d888  88b 888            
