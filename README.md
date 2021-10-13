@@ -2,7 +2,8 @@
 
 ## Ing. Matemáticas
 
- Syntax      | Description
+
+ Contacto      | Description
  ----------- | ----------- 
- Header      | ![header](https://raw.githubusercontent.com/cristophgaray/cristophgaray/main/Files/header.PNG)       
+ [Mail: cristopherhalig@gmail.com](cristopherhalig@gmail.com)      | ![header](https://raw.githubusercontent.com/cristophgaray/cristophgaray/main/Files/header.PNG)       
  Paragraph   | Text        
