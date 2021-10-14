@@ -23,6 +23,8 @@
 
  ## Who am I?
  ```bash
+green="\e[32;1m"
+reste="\e[0m"
  function Datos(){
 	Nombre='Cristofer'
 
@@ -30,18 +32,13 @@
                "Escuela Superior de Física y Matemáticas (ESFM)"
 
 
-	hobbies=( 'Ver seires y peliculas' \
+	Hobbies=( 'Ver seires y peliculas' \
 		      'Escuchar música todo el tiempo' \
 		      'Explorar nuevas tecnologias' )
+
+	echo "Resumen: "
+	echo -e "${green}${Nombre}\n${Educacion}\n{Hobbies}${reset}"
 	
-	def getCity():
-		return Hyderabad_India()
-	
-	def Ambitions():
-		LearnJapanese()
-		CreateSkyNet()
-		FinishMyNovel()
-		# Assume 10 more awesome ambitions here  ;)
 }	
  ```
 
