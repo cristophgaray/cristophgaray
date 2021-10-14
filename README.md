@@ -37,7 +37,7 @@ reste="\e[0m"
 		      'Explorar nuevas tecnologias' )
 
 	echo "Resumen: "
-	echo -e "${green}${Nombre}\n${Educacion}\n{Hobbies}${reset}"
+	echo -e "$green$Nombre\n$Educacion\n$Hobbies$reset"
 	
 }	
  ```
