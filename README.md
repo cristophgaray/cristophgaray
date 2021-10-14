@@ -23,9 +23,9 @@
 
  ## Who am I?
  ```bash
- class WhoAmI:
- 	user = 'Haany Ali'
-	current_edu = "St. Mary's Group of Institutions"
+ function Datos(){
+ 	user = 'Cristofer'
+	Educacion = "Instituto Politecnico Nacional"
 	hobbies = [
 				'Drawing',
 				'Watching Anime',
@@ -41,7 +41,7 @@
 		CreateSkyNet()
 		FinishMyNovel()
 		# Assume 10 more awesome ambitions here  ;)
-	
+}	
  ```
 
 
