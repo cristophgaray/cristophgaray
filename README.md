@@ -22,7 +22,7 @@
 - 🖥 &nbsp; Adobe Xd | Adobe Illustrator | Adobe Photoshop | OpenShot
 
  ## Who am I?
- ```python
+ ```bash
  class WhoAmI:
  	user = 'Haany Ali'
 	current_edu = "St. Mary's Group of Institutions"
