@@ -21,16 +21,30 @@
 - 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
 - 🖥 &nbsp; Adobe Xd | Adobe Illustrator | Adobe Photoshop | OpenShot
 
-´´´json
+ ## Who am I?
+ ```python
+ class WhoAmI:
+ 	user = 'Haany Ali'
+	current_edu = "St. Mary's Group of Institutions"
+	hobbies = [
+				'Drawing',
+				'Watching Anime',
+				'Reading Sci-Fi Novels'
+				'Being up all Night chasing that ONE BUG...'
+			]
+	
+	def getCity():
+		return Hyderabad_India()
+	
+	def Ambitions():
+		LearnJapanese()
+		CreateSkyNet()
+		FinishMyNovel()
+		# Assume 10 more awesome ambitions here  ;)
+	
+ ```
 
-{
-   nombre: [Cristofer]
-}
 
-´´´
-'''text
-  hola mundo xD
-'''
 <br>
 
 <!-- ![souvik's Github Stats](https://github-readme-stats.vercel.app/api?username=devSouvik&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
