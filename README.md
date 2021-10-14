@@ -24,8 +24,9 @@
  ## Who am I?
  ```bash
  function Datos(){
- 	user = 'Cristofer'
-	Educacion = "Instituto Politecnico Nacional"
+ 	Nombre='Cristofer'
+	Educacion="Instituto Politecnico Nacional (IPN)" \
+                  "Escuela Superior de Física y Matemáticas (ESFM)"
 	hobbies = [
 				'Drawing',
 				'Watching Anime',
