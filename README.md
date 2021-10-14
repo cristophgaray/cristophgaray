@@ -28,7 +28,7 @@
 	Educacion="Instituto Politecnico Nacional (IPN)" \
                "Escuela Superior de Física y Matemáticas (ESFM)"
 	hobbies=( 'Ver seires y peliculas' \
-    		'Escuchar música todo el tiempo' )
+		'Escuchar música todo el tiempo' )
 	
 	def getCity():
 		return Hyderabad_India()
