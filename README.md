@@ -27,12 +27,8 @@
  	Nombre='Cristofer'
 	Educacion="Instituto Politecnico Nacional (IPN)" \
                "Escuela Superior de Física y Matemáticas (ESFM)"
-	hobbies = [
-				'Drawing',
-				'Watching Anime',
-				'Reading Sci-Fi Novels'
-				'Being up all Night chasing that ONE BUG...'
-			]
+	hobbies=( 'Ver seires y peliculas' \
+		  'Escuchar música todo el tiempo' )
 	
 	def getCity():
 		return Hyderabad_India()
