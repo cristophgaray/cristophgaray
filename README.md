@@ -35,7 +35,9 @@ reste="\e[0m"
 	echo "Resumen: "
 	echo -e "$green$Nombre\n$Educación\n$Hobbies$reset"
 	
-}	
+}
+
+  Datos	
  ```
 
 
