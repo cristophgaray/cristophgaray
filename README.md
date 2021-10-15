@@ -7,8 +7,8 @@
 
 - 🔭 &nbsp; Soy egresado de la [Escuela Superior de Física y Matemáticas](https://www.esfm.ipn.mx/) - IPN
 
-- 🤔 &nbsp; Explorar nuevas tecnologías y hacks rápidos.
-- 🎓 &nbsp; Me gustaria estudiar Ciencias de la Computación (Maestría).
+- 🤔 &nbsp; Me gusta explorar nuevas tecnologías y hacks rápidos.
+- 🎓 &nbsp; Me gustaría estudiar Ciencias de la Computación (Maestría).
 - 🌱 &nbsp; Aficionado a la ciberseguridad y la inteligencia artificial.
 
 <h3>🛠 Habilidades</h3>
