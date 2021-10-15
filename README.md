@@ -49,7 +49,7 @@ reste="\e[0m"
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristophgaray&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
 
-<h3> 🤝🏻 Connect with Me </h3>
+<h3> 🤝🏻 Contacto </h3>
 
 <p align="center">
 &nbsp; <a href="https://www.linkedin.com/in/cristofer-h-garay-g/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
