@@ -1,43 +1,39 @@
 
         
-<h2> Hey there! I'm souvik. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h2> ¡Hola!, Soy Cristofer. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
 
-<h3> 👨🏻‍💻 Hacer de Mi </h3>
+<h3> 👨🏻‍💻 Acerca de Mi </h3>
 
 - 🔭 &nbsp; Soy egresado de la [Escuela Superior de Física y Matemáticas](https://www.esfm.ipn.mx/) - IPN
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
-- 💼 &nbsp; Android developer and front-end web developer.
-- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
-- ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
-<h3>🛠 Tech Stack</h3>
+- 🤔 &nbsp; Explorar nuevas tecnologías y hacks rápidos.
+- 🎓 &nbsp; Me gustaria estudiar Ciencias de la Computación (Maestría).
+- 🌱 &nbsp; Aficionado a la ciberseguridad y la inteligencia artificial.
 
-- 💻 &nbsp; Python | Dart | Java | C++ | HTML | CSS | JavaScript 
-- 🌐 &nbsp; Android | flutter | J2EE
+<h3>🛠 Habilidades</h3>
+
+- 💻 &nbsp; Python | Java | C++ | HTML | R  
+- 🌐 &nbsp; Android | IOS | Windows | Linux
 - 🛢 &nbsp; MySQL | Firebase | Xampp
-- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
-- 🖥 &nbsp; Adobe Xd | Adobe Illustrator | Adobe Photoshop | OpenShot
+- 🔧 &nbsp; Android Studio | PyCharm | VSC | Eclipse | Git
 
- ## Who am I?
  ```bash
 green="\e[32;1m"
 reste="\e[0m"
  function Datos(){
 	Nombre='Cristofer'
 
-	Educacion="Instituto Politecnico Nacional (IPN)" \
+	Educación="Instituto Politécnico Nacional (IPN)" \
                "Escuela Superior de Física y Matemáticas (ESFM)"
 
 
-	Hobbies=( 'Ver seires y peliculas' \
+	Hobbies=( 'Ver series y películas' \
 		      'Escuchar música todo el tiempo' \
-		      'Explorar nuevas tecnologias' )
+		      'Explorar nuevas tecnologías' )
 
 	echo "Resumen: "
-	echo -e "$green$Nombre\n$Educacion\n$Hobbies$reset"
+	echo -e "$green$Nombre\n$Educación\n$Hobbies$reset"
 	
 }	
  ```
